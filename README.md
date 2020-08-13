@@ -1,6 +1,6 @@
 # Linear Regression Lab
 
-There should be a starter file for the students, and an instructor/solutions file.
+There is a setup/starter file, and an instructor/solutions file.
 
 The lab that the students will do will take about 20 minutes.  
 Introducing the lab should take about 15 minutes.
